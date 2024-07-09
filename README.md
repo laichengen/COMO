@@ -12,7 +12,7 @@
 
 
 #####  COCO-CF is the dataset which is automatically generated from MS-COCO by injecting concepts from off-the-shelf language models and diffusion models to reduce the bias of bag-of-objects.
-### Illustration
+### Introduction
 - The counterfactual images and captions in COCO-CF dataset can be download in [BaiduYun Drive](https://pan.baidu.com/s/1natTvj0x0PKF8-dPzFTqOA?pwd=id93)
 - The factual images and captions can be download in [MS-COCO website](https://cocodataset.org/#home)
 - The samples of COCO-CF are shown in Directory 'COCO-CF-Example'
@@ -30,7 +30,7 @@
     --COCO_train2014_000000001907_138726.jpg
 ---coco-cf.json
 ```
-##### The structure of the file "coco-cf.json" in the directory
+##### The structure of the file "coco-cf.json" in "COCO-CF-Example"
 ```bash
 [
     {
