@@ -1,0 +1,1582 @@
+[
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001122.jpg",
+            "caption": "a red and yellow trains engine pulling its cars and some tracks"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001122_2113.jpg",
+            "caption": "a blue and yellow trains engine pulling its cars and some tracks"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001455.jpg",
+            "caption": "an open box of doughnuts on a counter"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001455_5849.jpg",
+            "caption": "an open box of matches on a counter"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000194.jpg",
+            "caption": "an exotic pizza sits on a plate with cheese and bits of meat on top"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000194_10140.jpg",
+            "caption": "an italian pizza sits on a plate with cheese and bits of meat on top"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000308.jpg",
+            "caption": "a man pouring wine from casks for patrons"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000308_12730.jpg",
+            "caption": "a man pouring wine from bottles for patrons"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000797.jpg",
+            "caption": "a couple of elephants being playful with each other"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000797_13490.jpg",
+            "caption": "a couple of people being playful with each other"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000113.jpg",
+            "caption": "two people standing near a table with a cake"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000113_18283.jpg",
+            "caption": "two people standing near a window with a cake"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001102.jpg",
+            "caption": "a person standing on the snow next to a tree"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001102_18537.jpg",
+            "caption": "a person standing on the ground next to a tree"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001359.jpg",
+            "caption": "a man flying a kite up in the air"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001359_23555.jpg",
+            "caption": "a man holding a kite up in the air"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000605.jpg",
+            "caption": "a cup of liquid with a fancy design on top of it"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000605_24598.jpg",
+            "caption": "a cup of liquid with a geometric design on top of it"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000322.jpg",
+            "caption": "a man tossing an orange frisbee on top of a lush green field"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000322_27531.jpg",
+            "caption": "a man tossing an orange flag on top of a lush green field"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001298.jpg",
+            "caption": "its good to take off your shoes and relax in the sun for lunch"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001298_29970.jpg",
+            "caption": "its good to take off your clothes and relax in the sun for lunch"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000575.jpg",
+            "caption": "an image of a cat that is playing with a shoe"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000575_31812.jpg",
+            "caption": "an image of a child that is playing with a shoe"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001706.jpg",
+            "caption": "a person holding a dog who is looking at its self in a mirror"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001706_37275.jpg",
+            "caption": "a person holding a doll who is looking at its self in a mirror"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000491.jpg",
+            "caption": "stuffed animals are hanging on poles in the air"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000491_37802.jpg",
+            "caption": "stuffed bears are hanging on poles in the air"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001200.jpg",
+            "caption": "three people on a beach one is flying a kite"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001200_38896.jpg",
+            "caption": "three people on a bus one is flying a kite"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001510.jpg",
+            "caption": "a plate of chicken dinner and vegetables on a counter"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001510_40249.jpg",
+            "caption": "a bowl of chicken dinner and vegetables on a counter"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001168.jpg",
+            "caption": "a model red plane hung from a ceiling"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001168_42159.jpg",
+            "caption": "a model red dress hung from a ceiling"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001319.jpg",
+            "caption": "a couple of cats that are in front of a tv"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001319_47368.jpg",
+            "caption": "a group of cats that are in front of a tv"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001401.jpg",
+            "caption": "a blender sitting on top of a wooden floor"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001401_47756.jpg",
+            "caption": "a chair sitting on top of a wooden floor"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001523.jpg",
+            "caption": "a red and blue dump truck traveling along a city street"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001523_48139.jpg",
+            "caption": "a yellow and blue dump truck traveling along a city street"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000925.jpg",
+            "caption": "there is a man sitting on the train wearing a suit"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000925_48179.jpg",
+            "caption": "there is a girl sitting on the train wearing a suit"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001168.jpg",
+            "caption": "there is a red plane hanging from the ceiling"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001168_48419.jpg",
+            "caption": "there is a red flag hanging from the ceiling"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001681.jpg",
+            "caption": "a wall with books shelves and two plates hung on it"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001681_51943.jpg",
+            "caption": "a table with books shelves and two plates hung on it"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000909.jpg",
+            "caption": "crackers starburst and a bottle of water are on a desk next to a computer"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000909_58270.jpg",
+            "caption": "crackers starburst and a glass of water are on a desk next to a computer"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000127.jpg",
+            "caption": "a close up of a slice of cake on a plate"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000127_62576.jpg",
+            "caption": "a close up of a slice of pizza on a plate"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001813.jpg",
+            "caption": "sandwich on a plate along with bread in tin"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001813_66270.jpg",
+            "caption": "sandwich on a plate along with coffee in tin"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001145.jpg",
+            "caption": "a woman prepares glass jars full of liquid on her counter"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001145_75465.jpg",
+            "caption": "a nurse prepares glass jars full of liquid on her counter"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000312.jpg",
+            "caption": "a large group of elephants crossing a dirt path"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000312_76623.jpg",
+            "caption": "a large group of people crossing a dirt path"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001108.jpg",
+            "caption": "a man attempts a jump on his skateboard"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001108_78179.jpg",
+            "caption": "a student attempts a jump on his skateboard"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001295.jpg",
+            "caption": "a european city square with a clock tower"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001295_400298.jpg",
+            "caption": "a large city square with a clock tower"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000201.jpg",
+            "caption": "a row of snow boards sticking out of the snow"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000201_403709.jpg",
+            "caption": "a couple of snow boards sticking out of the snow"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000801.jpg",
+            "caption": "an old building with a clock at the top of it"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000801_406358.jpg",
+            "caption": "an old desk with a clock at the top of it"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001025.jpg",
+            "caption": "a heart shaped figure is engraved on sandin the center of which a dog is sitting"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001025_408382.jpg",
+            "caption": "a heart shaped figure is engraved on sandin the center of which a woman is sitting"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000194.jpg",
+            "caption": "small pizza sitting on a white plate with different toppings on it"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000194_409187.jpg",
+            "caption": "small food sitting on a white plate with different toppings on it"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000089.jpg",
+            "caption": "a small light is on above the polished stove top"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000089_409649.jpg",
+            "caption": "a small light is on above the polished marble top"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000446.jpg",
+            "caption": "a woman playing a video game indoors"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000446_411127.jpg",
+            "caption": "a man playing a video game indoors"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001216.jpg",
+            "caption": "a person with an umbrella walking near the flowers"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001216_411922.jpg",
+            "caption": "a person with an umbrella stands near the flowers"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000078.jpg",
+            "caption": "a lighted owl candle sits next to a clock"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000078_413468.jpg",
+            "caption": "a lighted owl nest sits next to a clock"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001523.jpg",
+            "caption": "a red and blue dump truck marked ardula is shown on a city street"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001523_414322.jpg",
+            "caption": "a red and blue pickup truck marked ardula is shown on a city street"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000595.jpg",
+            "caption": "a tv sitting next to a river with a busted screen"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000595_420277.jpg",
+            "caption": "a house sitting next to a river with a busted screen"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000605.jpg",
+            "caption": "a cup of coffee on a plate with a spoon"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000605_420959.jpg",
+            "caption": "a cup of tea on a plate with a spoon"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000092.jpg",
+            "caption": "a chocolate cake and a fork ready to be eat"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000092_431507.jpg",
+            "caption": "a birthday cake and a fork ready to be eat"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001790.jpg",
+            "caption": "a young child stands in the mirror brushing their teeth"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001790_431641.jpg",
+            "caption": "a young child stands in the mirror showing their teeth"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000984.jpg",
+            "caption": "a pair of hands split a bundle of bananas on top of a box of oranges"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000984_433333.jpg",
+            "caption": "a pair of hands holding a bundle of bananas on top of a box of oranges"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000908.jpg",
+            "caption": "a kitchen with signs on the wall outside of it"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000908_433975.jpg",
+            "caption": "a door with signs on the wall outside of it"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001107.jpg",
+            "caption": "a small plane is hanging in the hanger"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001107_435016.jpg",
+            "caption": "a small bell is hanging in the hanger"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001670.jpg",
+            "caption": "two men ski on a mountain partially hidden by clouds"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001670_437029.jpg",
+            "caption": "two men stood on a mountain partially hidden by clouds"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001670.jpg",
+            "caption": "a couple of people that are in the snow"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001670_448914.jpg",
+            "caption": "a couple of things that are in the snow"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001864.jpg",
+            "caption": "a man is sitting in a chair in a room"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001864_453708.jpg",
+            "caption": "a man is sitting in a bed in a room"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000078.jpg",
+            "caption": "white clock sitting next to a statue of an owl"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000078_456158.jpg",
+            "caption": "white clock sitting next to a picture of an owl"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000839.jpg",
+            "caption": "two young men play with a frisbee in a grassy area"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000839_457668.jpg",
+            "caption": "two young men play with a frisbee in a wooded area"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000902.jpg",
+            "caption": "a bowl of fruit is sitting on top of the table"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000902_460451.jpg",
+            "caption": "a plate of fruit is sitting on top of the table"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001330.jpg",
+            "caption": "a young guy walking in a forrest holding an object in his hand"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001330_468414.jpg",
+            "caption": "a young guy sat in a forrest holding an object in his hand"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001453.jpg",
+            "caption": "a group of people on small fishing boats looking at a fiery coming towards them"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001453_471120.jpg",
+            "caption": "a group of people on small fishing nets looking at a fiery coming towards them"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001204.jpg",
+            "caption": "a mustachioed man in football pads and helmet poses aggressively with a baseball bat in his hand"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001204_472128.jpg",
+            "caption": "a mustachioed man in football pads and glasses poses aggressively with a baseball bat in his hand"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001706.jpg",
+            "caption": "a small dog looking at its reflection with a man nearby"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001706_473788.jpg",
+            "caption": "a small girl looking at its reflection with a man nearby"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000086.jpg",
+            "caption": "a man sitting on a motorcycle in the woods"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000086_474748.jpg",
+            "caption": "a man sitting on a rock in the woods"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000670.jpg",
+            "caption": "a display of boxes with several types of fruits"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000670_485571.jpg",
+            "caption": "a display of flowers with several types of fruits"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001084.jpg",
+            "caption": "a small group of tools laid out on a table"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001084_486233.jpg",
+            "caption": "a small group of books laid out on a table"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000030.jpg",
+            "caption": "a white vase with many flowers on a stage"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000030_491544.jpg",
+            "caption": "a white vase with many candles on a stage"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000250.jpg",
+            "caption": "a greenwich street and vesey street sign are hanging on a pole"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000250_495145.jpg",
+            "caption": "a greenwich street and vesey street posters are hanging on a pole"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001455.jpg",
+            "caption": "an image of a box with a small piece of donut"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001455_496601.jpg",
+            "caption": "an image of a man with a small piece of donut"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001589.jpg",
+            "caption": "a beagle pads away from the camera across a reflective surface"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001589_497369.jpg",
+            "caption": "a beagle pads away from the camera across a flat surface"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000934.jpg",
+            "caption": "two elephants standing next to each other on a dirt ground next to trees"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000934_503311.jpg",
+            "caption": "two men standing next to each other on a dirt ground next to trees"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000828.jpg",
+            "caption": "a man in a cap on a surf board and holding an oar"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000828_505170.jpg",
+            "caption": "a man in a suit on a surf board and holding an oar"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001451.jpg",
+            "caption": "a herd of cows standing on a grass covered field"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001451_516779.jpg",
+            "caption": "a herd of cows standing on a snow covered field"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001688.jpg",
+            "caption": "a brown and black dog is sitting on a pillow on a chair"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001688_525019.jpg",
+            "caption": "a brown and black cat is sitting on a pillow on a chair"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001085.jpg",
+            "caption": "a cat sleeping on a bed with a pillow"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001085_526341.jpg",
+            "caption": "a woman sleeping on a bed with a pillow"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001811.jpg",
+            "caption": "a man skiing on a rocky ground with other watching"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001811_526923.jpg",
+            "caption": "a man sat on a rocky ground with other watching"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001622.jpg",
+            "caption": "a brown and white dog posed on top of a toilet"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001622_528599.jpg",
+            "caption": "a black and white dog posed on top of a toilet"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000049.jpg",
+            "caption": "two men are on horses that are reared back"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000049_530119.jpg",
+            "caption": "two men are on horses that are coming back"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000529.jpg",
+            "caption": "a rider sits on a dirt bike with a woman in his lap"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000529_532762.jpg",
+            "caption": "a rider sits on a mountain bike with a woman in his lap"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000307.jpg",
+            "caption": "a collie chasing a frisbee in the grass"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000307_535083.jpg",
+            "caption": "a collie chasing a frisbee in the woods"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000839.jpg",
+            "caption": "two young men playing frisbee in a park"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000839_536935.jpg",
+            "caption": "two old men playing frisbee in a park"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001011.jpg",
+            "caption": "an overhead view of several people walking down a street carrying luggage"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001011_546521.jpg",
+            "caption": "an overhead view of several people running down a street carrying luggage"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000897.jpg",
+            "caption": "a skier that has fallen in the snow"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000897_548827.jpg",
+            "caption": "a tree that has fallen in the snow"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000490.jpg",
+            "caption": "a dog standing on hard wood floors and next to a wall with his shadow"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000490_550197.jpg",
+            "caption": "a dog standing on hard wood floors and next to a man with his shadow"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000382.jpg",
+            "caption": "a distance shot shows rolling snowy hills partially shadowed with ski prints reaching off into the distance and to the foreground a single skier"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000382_551198.jpg",
+            "caption": "a distance shot shows rolling green hills partially shadowed with ski prints reaching off into the distance and to the foreground a single skier"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001271.jpg",
+            "caption": "a group of men in a kitchen doing installations"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001271_554343.jpg",
+            "caption": "a group of men in a tent doing installations"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000813.jpg",
+            "caption": "three geese that are standing by a pond"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000813_557212.jpg",
+            "caption": "three statues that are standing by a pond"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000260.jpg",
+            "caption": "a woman next to a cart of luggage at a bus stop"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000260_557780.jpg",
+            "caption": "a woman next to a piece of luggage at a bus stop"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000438.jpg",
+            "caption": "a variety of donuts and pastries in a box"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000438_89755.jpg",
+            "caption": "a variety of cakes and pastries in a box"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001792.jpg",
+            "caption": "a park covered in snow along with the bench"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001792_90325.jpg",
+            "caption": "a park covered in trees along with the bench"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000908.jpg",
+            "caption": "a kitchen with art and a menu hanging on the wall"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000908_95911.jpg",
+            "caption": "a table with art and a menu hanging on the wall"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001390.jpg",
+            "caption": "someone that is skiing across some white snow"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001390_102818.jpg",
+            "caption": "someone that is walking across some white snow"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001261.jpg",
+            "caption": "two plates and a bowl full of food sitting on a table"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001261_105704.jpg",
+            "caption": "two plates and a basket full of food sitting on a table"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001804.jpg",
+            "caption": "a couple of women sharing a doughnut with each other"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001804_115661.jpg",
+            "caption": "a couple of women sharing a bed with each other"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000061.jpg",
+            "caption": "some people who are riding on top of elephants"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000061_116160.jpg",
+            "caption": "some people who are riding on thousands of elephants"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000723.jpg",
+            "caption": "a motorcycle is parked outside of a cafe"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000723_116949.jpg",
+            "caption": "a car is parked outside of a cafe"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000127.jpg",
+            "caption": "a slice of cake and mug sitting on a wooden table outside"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000127_125043.jpg",
+            "caption": "a slice of bread and mug sitting on a wooden table outside"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000142.jpg",
+            "caption": "a close up of a plate of a jelly and banana sandwich"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000142_129005.jpg",
+            "caption": "a close up of a picture of a jelly and banana sandwich"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000595.jpg",
+            "caption": "there is an old tv in the middle of a swamp"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000595_131229.jpg",
+            "caption": "there is an enormous tv in the middle of a swamp"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000404.jpg",
+            "caption": "a pair of boats docked at a pier is shown"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000404_134455.jpg",
+            "caption": "a list of boats docked at a pier is shown"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000581.jpg",
+            "caption": "there is a white and beige dog sitting on the floor"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000581_135554.jpg",
+            "caption": "there is a white and black dog sitting on the floor"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000113.jpg",
+            "caption": "a women who is cutting into a cake"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000113_136579.jpg",
+            "caption": "a women who is made into a cake"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001907.jpg",
+            "caption": "a number of zebras on a dirt ground behind a fence"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001907_138726.jpg",
+            "caption": "a number of houses on a dirt ground behind a fence"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000982.jpg",
+            "caption": "a minnie the mouse cake sits on a cutting board"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000982_138982.jpg",
+            "caption": "a minnie the mouse cartoon sits on a cutting board"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000643.jpg",
+            "caption": "a computer is on a desk along with several knickknacks"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000643_139458.jpg",
+            "caption": "a map is on a desk along with several knickknacks"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000625.jpg",
+            "caption": "3 people attempt to catch a frisbee in midair"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000625_142255.jpg",
+            "caption": "3 people attempt to throw a frisbee in midair"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000394.jpg",
+            "caption": "a dog is holding a frisbee standing on grass"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000394_142656.jpg",
+            "caption": "a dog is holding a frisbee resting on grass"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001774.jpg",
+            "caption": "a man is riding a skateboard on the pavement"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001774_143793.jpg",
+            "caption": "a man is riding a bicycle on the pavement"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001053.jpg",
+            "caption": "people wearing helmets while riding bicycles crossing the street"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001053_153403.jpg",
+            "caption": "people wearing helmets while riding bicycles crossing the river"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001496.jpg",
+            "caption": "yellow rusted fire hydrant hidden in the tall grass"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001496_153534.jpg",
+            "caption": "yellow rusted fire hydrant hidden in the green grass"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000681.jpg",
+            "caption": "the bus is parked on the quiet road waiting for its passengers"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000681_153834.jpg",
+            "caption": "the bus is parked on the main road waiting for its passengers"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000790.jpg",
+            "caption": "a group of people are gathered around a table with cake on it"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000790_158752.jpg",
+            "caption": "a group of people are gathered around a table with food on it"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000450.jpg",
+            "caption": "a pizza with basil leaves served on a plate"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000450_165318.jpg",
+            "caption": "a pizza with banana leaves served on a plate"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000309.jpg",
+            "caption": "a dog stands in the grass next to a stuffed bear"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000309_167093.jpg",
+            "caption": "a dog stands in the doorway next to a stuffed bear"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000370.jpg",
+            "caption": "a little girl holding wet broccoli in her hand"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000370_170009.jpg",
+            "caption": "a little girl holding wet cloth in her hand"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000072.jpg",
+            "caption": "the two giraffes appear to be hugging each other"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000072_172108.jpg",
+            "caption": "the two men appear to be hugging each other"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000681.jpg",
+            "caption": "a white and red bus on side of street"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000681_174842.jpg",
+            "caption": "a white and red flag on side of street"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000643.jpg",
+            "caption": "a computer desk with a desktop computer and a stuffed turtle on top"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000643_179928.jpg",
+            "caption": "a computer desk with a laptop computer and a stuffed turtle on top"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001085.jpg",
+            "caption": "a brown cat sleeping on a bed with a blue blanket"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001085_184691.jpg",
+            "caption": "a brown woman sleeping on a bed with a blue blanket"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000144.jpg",
+            "caption": "a number of giraffes near one another"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000144_184875.jpg",
+            "caption": "a number of buildings near one another"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001366.jpg",
+            "caption": "the building in the city was very large"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001366_186212.jpg",
+            "caption": "the population in the city was very large"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001108.jpg",
+            "caption": "a man is jumping in the air on a skateboard"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001108_186969.jpg",
+            "caption": "a man is jumping in the water on a skateboard"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001737.jpg",
+            "caption": "two polar bears lying on rocks at a zoo"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001737_189599.jpg",
+            "caption": "two black bears lying on rocks at a zoo"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000471.jpg",
+            "caption": "an old yellow school bus is parked in a lot"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000471_195127.jpg",
+            "caption": "an old yellow city bus is parked in a lot"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001645.jpg",
+            "caption": "a snow covered filed with animals grazing on it"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001645_200396.jpg",
+            "caption": "a snow covered filed with animals sat on it"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001298.jpg",
+            "caption": "a man is sitting on the grass eating some food and a drink"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001298_209586.jpg",
+            "caption": "a man is sitting on the grass eating some fruit and a drink"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000673.jpg",
+            "caption": "many surfboards laying in the sand at the beach"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000673_211810.jpg",
+            "caption": "many surfboards laying in the water at the beach"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000109.jpg",
+            "caption": "some grass and a person in a blue shirt walking a dog and water"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000109_218790.jpg",
+            "caption": "some grass and a person in a blue shirt walking a horse and water"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000349.jpg",
+            "caption": "a trailer is sitting under a bridge and some power lines"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000349_219843.jpg",
+            "caption": "a trailer is sitting under a tree and some power lines"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000595.jpg",
+            "caption": "a tv in the middle of a fast flowing river"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000595_220026.jpg",
+            "caption": "a house in the middle of a fast flowing river"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001637.jpg",
+            "caption": "a group rides horseback down the beach"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001637_220477.jpg",
+            "caption": "a group rides horseback down the hill"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000982.jpg",
+            "caption": "a cake of a animated character with a bow on its head"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000982_220847.jpg",
+            "caption": "a cake of a animated character with a hat on its head"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000394.jpg",
+            "caption": "white dog carrying a purple frisbee on a lawn"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000394_221575.jpg",
+            "caption": "white dog carrying a purple umbrella on a lawn"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001451.jpg",
+            "caption": "a herd of skinny cows are grazing on the grass"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001451_224481.jpg",
+            "caption": "a herd of skinny horses are grazing on the grass"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001522.jpg",
+            "caption": "up close on a slice of cake sitting on a plate"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001522_226193.jpg",
+            "caption": "up close on a slice of pizza sitting on a plate"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001523.jpg",
+            "caption": "a blue red and white truck and some buildings"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001523_237296.jpg",
+            "caption": "a blue red and white flag and some buildings"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000144.jpg",
+            "caption": "a couple of giraffes eat some food out of a trey"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000144_238671.jpg",
+            "caption": "a couple of people eat some food out of a trey"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000572.jpg",
+            "caption": "this is two men standing on some stairs"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000572_238810.jpg",
+            "caption": "this is two men sitting on some stairs"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000671.jpg",
+            "caption": "a statue of a soldier sitting atop a horse"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000671_239455.jpg",
+            "caption": "a statue of a woman sitting atop a horse"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001111.jpg",
+            "caption": "a big field has a forest of trees next to it"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001111_280826.jpg",
+            "caption": "a big hill has a forest of trees next to it"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001737.jpg",
+            "caption": "two white polar bears laying on top of a large rock"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001737_283329.jpg",
+            "caption": "two white polar bears laying on bottom of a large rock"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000581.jpg",
+            "caption": "the small dog is looking up at the camera"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000581_286595.jpg",
+            "caption": "the small girl is looking up at the camera"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001645.jpg",
+            "caption": "a bunch of animals standing in the snow"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001645_286669.jpg",
+            "caption": "a bunch of people standing in the snow"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001390.jpg",
+            "caption": "a small kid is learning to ski on the snow"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001390_287899.jpg",
+            "caption": "a small kid is learning to walk on the snow"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001390.jpg",
+            "caption": "two adults and a child on skis in the snow"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001390_291378.jpg",
+            "caption": "two adults and a child on foot in the snow"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000982.jpg",
+            "caption": "a close up of a cake made to look like minnie mouse"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000982_296945.jpg",
+            "caption": "a close up of a woman made to look like minnie mouse"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000443.jpg",
+            "caption": "a cat laying on a persons lap who is sitting on a couch"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000443_301401.jpg",
+            "caption": "a woman laying on a persons lap who is sitting on a couch"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001453.jpg",
+            "caption": "a few people are on small boats in a channel"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001453_303577.jpg",
+            "caption": "a few people are on small screens in a channel"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000625.jpg",
+            "caption": "three young women are trying to catch a frisbee"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000625_306051.jpg",
+            "caption": "three young men are trying to catch a frisbee"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001166.jpg",
+            "caption": "some old boats on some water sitting at a dock"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001166_310923.jpg",
+            "caption": "some old man on some water sitting at a dock"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000902.jpg",
+            "caption": "a bowl filled with fruit on top of a table"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000902_312566.jpg",
+            "caption": "a basket filled with fruit on top of a table"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000508.jpg",
+            "caption": "sun peeks through the cloudy on top of a snowy mountain"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000508_312752.jpg",
+            "caption": "sun peeks through the cloudy on top of a small mountain"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001053.jpg",
+            "caption": "several bicyclists crossing the street at a designated crossing in the roadway"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001053_315568.jpg",
+            "caption": "several vehicles crossing the street at a designated crossing in the roadway"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001697.jpg",
+            "caption": "food wrapped in paper on a plate"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001697_324247.jpg",
+            "caption": "food wrapped in foil on a plate"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000322.jpg",
+            "caption": "a man standing in a yard with a red frisbee"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000322_324288.jpg",
+            "caption": "a man standing in a doorway with a red frisbee"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001762.jpg",
+            "caption": "a red and yellow city bus driving down the street"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001762_324718.jpg",
+            "caption": "a red and yellow school bus driving down the street"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001589.jpg",
+            "caption": "a white dog is walking along a shiny surface"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001589_330722.jpg",
+            "caption": "a small dog is walking along a shiny surface"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001401.jpg",
+            "caption": "a silver and clear drink container with a black tray of fruit next to it"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001401_334012.jpg",
+            "caption": "a silver and clear plastic container with a black tray of fruit next to it"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001090.jpg",
+            "caption": "a train with buildings with a mountain in the background"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001090_336437.jpg",
+            "caption": "a village with buildings with a mountain in the background"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000977.jpg",
+            "caption": "a cat lying on a couch with pillows"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000977_341234.jpg",
+            "caption": "a woman lying on a couch with pillows"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000650.jpg",
+            "caption": "a cat is sitting on top of a vehicle"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000650_344749.jpg",
+            "caption": "a man is sitting on top of a vehicle"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000001224.jpg",
+            "caption": "the two giraffes are enjoying their meal together"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000001224_348180.jpg",
+            "caption": "the two giraffes are enjoying their time together"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000960.jpg",
+            "caption": "a woman with a beer is wearing a gray tie"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000960_352269.jpg",
+            "caption": "a woman with a ponytail is wearing a gray tie"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000149.jpg",
+            "caption": "people flying kites in a field on a cloudy day"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000149_357448.jpg",
+            "caption": "people flying kites in a field on a sunny day"
+        }
+    },
+    {
+        "factual": {
+            "image": "COCO_train2014_000000000064.jpg",
+            "caption": "a very pretty clock on the side of a road"
+        },
+        "counterfactual": {
+            "image": "COCO_train2014_000000000064_358209.jpg",
+            "caption": "a very pretty house on the side of a road"
+        }
+    }
+]
